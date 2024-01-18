@@ -1,2 +1,2 @@
 # readme.md
-Hi, thabk you for grading me.
+Hi, thank you for grading me.
